@@ -1,4 +1,6 @@
-{
+{ "theatre": [
+    
+    {
   "description": "South of Market: The Musical\nConcept by Pat Blute\nBook by Pat Blute & Samantha O'Keefe\nMusic and Lyrics by Tareq Abuissa\nDirected by Christopher Goodwin\nChoreography by Lila Green\nStage Managed by John Russell\nCreative Direction by Elliott C Nathan\nGraphic Design by Micael Butial\n\nCast: Shishir Dash, Nick DeWilde, Alexandra Feldman, Sara Grossman, Varun Gulati, Austin Hammer, Travis Hedge, Jameela Huq, Rob Klein, Michael Kovacs, Crystal Liu, Sydney Lozier, Caleb Lush, Emma Onasch, Jessica Osegueda, Morgan Pate, Jake Saper, Venessa Vaccianna, and Rolfe Winkler\n\nhttp://www.zspace.org/southofmarket\n\nThe tech industry is broken.\n\nBut don’t worry. We know just how to fix it.\n\nSouth of Market: The Musical [v1.0 Alpha] is the musical comedy that’s disrupting the tech industry and answering important questions like:\n\n→ Have we reached peak saturation in the on-demand economy? Is there anything left to demand?\n→ Will venture capital money flow forever or will companies dry up like Tahoe?\n→ Is this too awkward for a first Bumble date? There’s a bar. So no. And it’s good fodder for conversation after.\n\nJoin the Bay Area community for an evening of musical theatre playing on modern tech culture in San Francisco.\n\nJokes will be A/B tested to improve laugh conversion rate.\n\nInterested in bringing the whole company? E-mail somathemusical@gmail.com for more information.",
   "end_time": "2016-10-23T14:00:00-0700",
   "is_date_only": false,
@@ -146,4 +148,8 @@
     "id": "14945400363"
   },
   "id": "492874510922081"
+}
+    
+    
+    ]
 }
