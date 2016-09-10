@@ -36,5 +36,8 @@
   },
   "scripts": {
     "test": "karma start test/karma.conf.js"
+  },
+  "dependencies": {
+    "facebook-events-by-location": "^0.5.3"
   }
 }
