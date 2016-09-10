@@ -1,0 +1,40 @@
+{
+  "description": "Walk in the footsteps of the most famous lovers of all time! As their story unfolds through the majestic grounds of Montalvo, you'll be immersed in a 360 degree sphere of performance. We Players will blur the boundary between audience and actors, history and the present moment in this one-of-a-kind, site-integrated production.\n\nAudiences will be on their feet, physically moving with the actors as the action unfolds throughout Montalvo’s landscape. Hear the clash of steel as sword fights fly on the Great Lawn; join the Capulets at their infamous masked ball in the historic Villa Montalvo; participate in the rituals of marriage and death in the Italianate Garden; and let Romeo and Juliet fill you with joy—and break your heart.\n\nTICKET PRICES: General: $70 | Student: $40\nhttp://montalvoarts.org/events/romeo_and_juliet_1009/facebook/",
+  "is_date_only": false,
+  "location": "Montalvo Arts Center",
+  "name": "Romeo and Juliet",
+  "owner": {
+    "name": "Montalvo Arts Center",
+    "category": "Non-Profit Organization",
+    "category_list": [
+      {
+        "id": "179943432047564",
+        "name": "Performance Venue"
+      },
+      {
+        "id": "197384240287028",
+        "name": "Art Gallery"
+      },
+      {
+        "id": "197097220301977",
+        "name": "Historical Place"
+      }
+    ],
+    "id": "89491849573"
+  },
+  "privacy": "OPEN",
+  "start_time": "2016-10-09T12:00:00-0700",
+  "timezone": "America/Los_Angeles",
+  "updated_time": "2016-06-04T00:31:37+0000",
+  "venue": {
+    "city": "Saratoga",
+    "country": "United States",
+    "latitude": 37.24381914661,
+    "longitude": -122.0309648484,
+    "state": "CA",
+    "street": "15400 Montalvo Rd",
+    "zip": "95070",
+    "id": "89491849573"
+  },
+  "id": "846666152145843"
+}
