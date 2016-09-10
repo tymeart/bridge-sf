@@ -4,14 +4,17 @@ var express = require('express')
 
 app.use(express.static(__dirname + '/public'))
 
-var artfile = '/public/data/art.json';
+var artfile = './public/data/art.json';
 console.log('********** artfile *********************', artfile);
+var json;
 
 fs.readFile(artfile, 'utf8', function(err, data){
   if (err) {
     console.log('Error: ', err);
+  } else {
+    json = JSON.parse(data);
+    console.log(json);
   }
-  console.log(data);
 });
 
 
