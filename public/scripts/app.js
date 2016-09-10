@@ -12,7 +12,6 @@ angular
   .module('bridgesfApp', [
     'ngAnimate',
     'ngCookies',
-    'ngMessages',
     'ngResource',
     'ngRoute',
     'ngSanitize',
@@ -29,11 +28,6 @@ angular
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl',
         controllerAs: 'about'
-      })
-      .when('/route', {
-        templateUrl: 'views/route.html',
-        controller: 'RouteCtrl',
-        controllerAs: 'route'
       })
       .otherwise({
         redirectTo: '/'
