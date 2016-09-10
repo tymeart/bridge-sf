@@ -37,4 +37,160 @@
     "id": "89491849573"
   },
   "id": "846666152145843"
+},
+{
+  "description": "9th Annual Luna Park Chalk Art Festival\n\nSaturday, September 17, 2016\n10AM to 5PM\nBackesto Park – San José, California\n\nFree to attend!\n \n*Over 150 pieces of art chalked throughout the park\n*Arts and crafts vendors\n*Food trucks\n*Live music\n*Proceeds benefit K-12 arts programs in local schools\n\nNow in it’s 9th year, the Luna Park Chalk Art Festival attracts over 3,000 artists, students, vendors, and community members for a colorful day in San José’s Backesto Park. Artists, students and chalk enthusiasts create over 150 pieces of diverse art throughout the park’s pathways, including original works, classical re­creations, traditional Italian madonarri street painting, 3D realistic works, cartoons, modern abstractions, and more. In addition to the artwork, the festival features a main stage of local musicians, dancers and performers, as well as local food trucks and vendor booths.\n\nThe Luna Park Chalk Art Festival and Luna Park Arts Foundation are 100% volunteer run.\nRegistration is NOW OPEN at chalkfest.lunaparkarts.org\n\nArtists of all ages and experience levels can purchase a space to chalk at the festival. No experience is necessary!\n-Chalk spaces come in various sizes and include soft pastels/chalk.\n-K-12 School/youth programs may register for chalk spaces at no cost.\n-Arts and crafts vendors, nonprofit organizations and businesses can purchase booth spaces and chalk art spaces.\n-See the registration page for details and prices.\n-Chalk spaces may be available to purchase the day of the event.\n\n2016 Inspiring Artists (http://www.lunaparkarts.org/festival/inspiring-artists)\n-Dominic Arroyo\n-Lacey Bryant\n-Norah Bruhn\n-Momo Cha\n-Carolina Chavez\n-Kyra Kazantzis\n-Waz Keatingo\n-Joe Mandrick\n-Christina Medina\n-Johnny Niblock\n-Wayne and Cheryl Renshaw\n-Marlon Yanes\n\n2016 Entertainment\n(http://www.lunaparkarts.org/festival/entertainment)\nPlaying on the San Jose Jazz Boombox Truck:\n-Sweet Hayah\n-Coffee Zombie Collective\n-O'Craven\n-Movimiento Cosmico\n-Rove\n-Doug and the Carnival of Souls Revue\n-Background music by KKUP\n\nEats and Treats\n-Sonia’s Sweets & Eats\n-Mona’s Fruits\n-Twisted Chill\n-Oaxacan Kitchen Mobile\n-Thanks Coffee\n-Capelo’s Hill Country BBQ",
+  "end_time": "2016-09-17T17:00:00-0700",
+  "is_date_only": false,
+  "location": "Luna Park Chalk Art Festival",
+  "name": "2016 Luna Park Chalk Art Festival",
+  "owner": {
+    "name": "Luna Park Chalk Art Festival",
+    "category": "Non-Profit Organization",
+    "category_list": [
+      {
+        "id": "152880021441864",
+        "name": "Community Organization"
+      },
+      {
+        "id": "133436743388217",
+        "name": "Arts & Entertainment"
+      },
+      {
+        "id": "2603",
+        "name": "Non-Profit Organization"
+      }
+    ],
+    "id": "107959651721"
+  },
+  "privacy": "OPEN",
+  "start_time": "2016-09-17T10:00:00-0700",
+  "timezone": "America/Los_Angeles",
+  "updated_time": "2016-09-09T16:49:16+0000",
+  "venue": {
+    "city": "San Jose",
+    "country": "United States",
+    "latitude": 37.352067788399,
+    "longitude": -121.88464532518,
+    "state": "CA",
+    "street": "500 N 13th St",
+    "zip": "95112",
+    "id": "107959651721"
+  },
+  "id": "407088326166841"
+},
+{
+  "description": "Art Explosion Fall Open Studios\nSept 23rd Friday 7-11pm\nSept 24&25 Sat & Sun 12-5pm\n\nArt Explosion Studios, the Mission's largest Artist's collective is holding its annual Fall Open Studios on Sept 23-25. Come see over 100 artists as they open their studios to exhibit their work. Painters, sculptures, photographers, fashion designers and jewellers will be showing so there will be something for every type of art connoisseur. The free opening reception gala will be on Friday Sept 23rd from 7-11pm. Do not miss this opportunity to get a first look at all the incredible work that will be on display and enjoy a spectacular night out viewing art. In addition to artists opening their studios our galleries will be filled with art. On Sat & Sun we will have open studios from 12-5pm. Come meet the artists in their studios and get a personal showing of their art. As always Free Admission with plentiful street parking.",
+  "end_time": "2016-09-25T17:00:00-0700",
+  "is_date_only": false,
+  "location": "Art Explosion Studios",
+  "name": "Art Explosion Fall Open Studios",
+  "owner": {
+    "name": "Art Explosion Studios",
+    "category": "Arts & Entertainment",
+    "category_list": [
+      {
+        "id": "197384240287028",
+        "name": "Art Gallery"
+      }
+    ],
+    "id": "110320173374"
+  },
+  "privacy": "OPEN",
+  "start_time": "2016-09-23T19:00:00-0700",
+  "timezone": "America/Los_Angeles",
+  "updated_time": "2016-07-11T18:46:59+0000",
+  "venue": {
+    "city": "San Francisco",
+    "country": "United States",
+    "latitude": 37.760038673954,
+    "longitude": -122.41196616131,
+    "state": "CA",
+    "street": "2425 17th St",
+    "zip": "94110",
+    "id": "110320173374"
+  },
+  "id": "756519404489952"
+},
+{
+  "description": "Wine, Paint, Party!!!! Come join us for a really good time at our Paint Nite Oct 21st. Our theme for this Paint Nite will be Sugar Skulls! Seats are limited please call to RSVP tickets are $55\n707-939-6903 or email wineclub@robledofamilywinery.com",
+  "end_time": "2016-10-21T21:00:00-0700",
+  "is_date_only": false,
+  "location": "Robledo Family Winery",
+  "name": "Paint Night at Robledo Family Winery",
+  "owner": {
+    "name": "Robledo Family Winery",
+    "category": "Local Business",
+    "category_list": [
+      {
+        "id": "209630435729071",
+        "name": "Winery/Vineyard"
+      }
+    ],
+    "id": "176140992398828"
+  },
+  "privacy": "OPEN",
+  "start_time": "2016-10-21T19:00:00-0700",
+  "timezone": "America/Los_Angeles",
+  "updated_time": "2016-09-08T16:15:19+0000",
+  "venue": {
+    "city": "Sonoma",
+    "country": "United States",
+    "latitude": 38.247798090459,
+    "longitude": -122.4828045022,
+    "state": "CA",
+    "street": "21901 Bonness Rd",
+    "zip": "95476",
+    "id": "176140992398828"
+  },
+  "id": "179703432454282"
+},
+{
+  "description": "It's that time again! \n\nEvery Second Sunday of the month we have FREE cultural arts activities happening within the 24th Street Latino Cultural District (24th Street and Mission to 24th Street and Potrero!)\n\nBeginning this month,  those who attend and participate will recieve \"Paseo Badges\".  These will allow participants to redeem discounts and freebies from our participating neighborhood vendors and merchants! \n\nSchedule of Events: Sunday, 9/11/2016\n\n10AM - 5 PM ● Lowriders and The Mission, Yesterday and Today\nAlley Cat Gallery, 3036 24th Street \nExhibition with original paintings by Anthony Holdsworth and photos by Lou Dematteis.\n\n11AM-12:30 PM ● Bilingual Guided Mural Tour\nPrecita Eyes Murals, 2981 24th Street\nSpanish & English guided mural tour through Balmy Alley and 24th Street Corridor. \n\n12-3 PM ●  Printing Class with tortilleras\nAcción Latina, 2958 24th Street\nInstructor: Veronica Solis , Hands on art class for the entire family!\n\n3:30 - 6PM  ● Chapbook Reading\nAdobe Books and Arts Cooperative, 3130 24th Street\nDisorder Press presents Adam Soldofsky's debut chapbook of poetry titled \"Memory Foam\".\n\n4-6:00 PM ● Gears Turning Poetry Series\nModern Times Bookstore, 2919 24th Street\nHosted by Kim Shuck; Poetry by QR Hand, Gail Mitchell, and Nellie Wong; Music by Ed Dang. \n\n5- 6:30 PM ● Cine+Mas SF Latino Film Screening \nAlley Cat Bookshop, 3036 24th Street \nDocumentary Film: Cooking up Dreams Directed by: Ernesto Cabellos \nA journey into the kitchens of Peru's people -  locally, nationally, and internationally. \n\n5-7 PM ● DJ Night at Praxis \nPraxis, 3047 24th Street \nLive music, dancing, and performances. \n\nDiscounts available only with a \"Paseo Badge\":\n\nDagwood and Scoops-- $2 scoop of Ice Cream\nTemos Coffee--10% off all purchased items\nHumphry Slocombe--First to arrive at paseo event are eligible for a free scoop\nPraxis--10% off everything\t\nL’s Caffe--15% off on all lunch items\nLuz De Luna--10% off everything, except on artwork and silver\nTio Chilos Restaurant--Spend $5 and get agua frescas for free\nMixcoatl--20% everything",
+  "end_time": "2016-09-11T19:00:00-0700",
+  "is_date_only": false,
+  "location": "24th Street, Mission District",
+  "name": "Paseo Artistico: September 2016",
+  "owner": {
+    "name": "Paseo Artistico",
+    "category": "Community",
+    "id": "1570845686553567"
+  },
+  "privacy": "OPEN",
+  "start_time": "2016-09-11T10:00:00-0700",
+  "timezone": "America/Los_Angeles",
+  "updated_time": "2016-09-10T20:07:11+0000",
+  "venue": {
+    "latitude": 37.752680077377,
+    "longitude": -122.41153147968,
+    "id": "277398032346611"
+  },
+  "id": "1800103666905326"
+},
+{
+  "description": "Join us at the Upload Collective for the second Art + VR Event on Tuesday, September 20th.\n\nAfter such a great turn out at the last Art event at the Collective, we've decided to continue the series. Rather than just limiting the tech art to Virtual Reality, we have decided to include any art related to tech. This mission of bridging the gap between the tech world and the art world is a new mission that the H.E.art Project (The Home Endevor Art Project) has been born out of. This is a program designed to be funded by tech companies to help provide subsidized housing and gallery space to artists in the Bay Area, that are being pushed out due to gentrification, and thus keeping art within the city.\n\nThere will be an Art Talk followed by a presentation from Stuart Mason and his partner, Samuel Finn, discussing their vision for the H.E.art Project.\n\nWe will have a silent auction, virtual reality demos on Samsung Gear VRs,  HTC Vive experiences and art installations.\n\nFood and drinks will be provided.\n\nAll proceeds go directly to H.E.art Project.\n\nwww.heartprojectsf.com\nwww.uploadvr.com\n\n_______________________________\n\nPartnership/ demo/ press inquiries: Olya@UploadVR.com, Ned@UploadVR.com\nArt inquiries: Stuart@UploadVR.com",
+  "end_time": "2016-09-20T22:00:00-0700",
+  "is_date_only": false,
+  "location": "Upload Collective",
+  "name": "Art + VR Event",
+  "owner": {
+    "name": "Upload VR",
+    "category": "Media/News/Publishing",
+    "id": "718671334882641"
+  },
+  "privacy": "OPEN",
+  "start_time": "2016-09-20T19:00:00-0700",
+  "timezone": "America/Los_Angeles",
+  "updated_time": "2016-08-16T18:48:55+0000",
+  "venue": {
+    "city": "San Francisco",
+    "country": "United States",
+    "latitude": 37.773856785387,
+    "longitude": -122.41741167432,
+    "state": "CA",
+    "street": "1535 mission street",
+    "zip": "94103",
+    "id": "900965103334515"
+  },
+  "id": "1209631595734293"
 }
