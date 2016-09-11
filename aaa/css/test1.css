@@ -1,0 +1,113 @@
+
+h1{
+ padding-left: 50px;
+ padding-right: 0px;
+ font-family: 'Droid Serif',serif;
+ color: #ccc;
+}
+#bridge{
+ border-style: solid;
+ border-width: 5px;
+ border-color:  red;
+ border-radius: 100px;
+ width: 10%;
+ height: 5;  
+}
+body{
+ background: black;
+}
+
+#nav {
+ font-family: 'Droid Serif',serif;
+    width: 100%;
+    float: left;
+    margin: 0 0 3em 0;
+    padding: 0;
+    list-style: none;
+    background-color: #f2f2f2 ;
+    border-bottom: px solid #ccc; 
+    border-top: px solid #ccc; 
+ background-color: black;
+}
+#nav li {
+    float: right; }
+#nav li a {
+ background-color: #ccc;
+    display: block;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: navy;
+    border-right: 1px solid #ccc; }
+#nav li a:hover {
+    color: #ccc;
+    background-color: #fff; }
+div {
+ height: 500px; 
+}
+#art {
+ background-image: url("http://i.imgur.com/82UvEKS.jpg?2");
+ background-repeat: no-repeat;
+ padding-right: 5px;
+ background-position: center;
+}
+#dance {
+ background-image: url("http://i.imgur.com/4NVtPYJ.jpg?2");
+ background-repeat: no-repeat;
+ background-position: center;
+}
+#music {
+ background-image: url("http://i.imgur.com/bcUiKGM.jpg?2");
+ background-repeat: no-repeat;
+ padding-right: 5px;
+ background-position: center;
+}
+#theater {
+   background-image: url("http://i.imgur.com/OrM0utX.jpg?1");
+ background-repeat: no-repeat;
+ padding-right: 5px;
+ background-position: center;
+ }
+#arttext {
+ font-family: 'Droid Serif', serif;
+ font-size: 30px;
+ background-color: white;
+ color: black;
+ height: 40px;
+ text-align: center;
+ position: relative;
+ margin-top: 400px;
+}
+
+#dancetext{
+ font-family: 'Droid Serif', serif;
+ font-size: 30px;
+ background-color: white;
+ color: black;
+ height: 40px;
+ text-align: center;
+ position: relative;
+ margin-top: 400px;
+}
+
+#musictext{
+ font-family: 'Droid Serif', serif;
+ font-size: 30px;
+ background-color: white;
+ color: black;
+ height: 40px;
+ text-align: center;
+ position: relative;
+ margin-top: 400px;
+}
+
+#theatertext {
+ font-family: 'Droid Serif', serif;
+ font-size: 30px;
+ background-color: white;
+ color: black;
+ height: 40px;
+ text-align: center;
+ position: relative;
+ margin-top: 400px;
+}
