@@ -473,6 +473,8 @@ module.exports = function (grunt) {
       'connect:livereload',
       'watch'
     ]);
+
+    require('./app.js');
   });
 
   grunt.registerTask('server', 'DEPRECATED TASK. Use the "serve" task instead', function (target) {

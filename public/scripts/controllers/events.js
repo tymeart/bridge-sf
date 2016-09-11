@@ -8,7 +8,7 @@
  * Controller of the bridgesfApp
  */
 angular.module('bridgesfApp')
-  .controller('AboutCtrl', function () {
+  .controller('EventsCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',

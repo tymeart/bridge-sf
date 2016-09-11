@@ -4,6 +4,8 @@ var express = require('express')
 
 app.use(express.static(__dirname + '/public'))
 
+require('./routes.js');
+
 var artfile = './public/data/art.json';
 var dancefile = './public/data/dance.json';
 var musicfile = './public/data/music.json';
@@ -43,9 +45,11 @@ fs.readFile(theatrefile, 'utf8', function(err, data){
     console.log('Error: ', err);
   } else {
     theatreObj = JSON.parse(data);
+    // console.log('theatreObj', theatreObj);
   }
 });
 
-app.listen(3000, function() {
-  console.log('Listening on port 3000...')
-})
+console.log('here **********************************************');
+// app.listen(3000, function() {
+//   console.log('Listening on port 3000...')
+// })
