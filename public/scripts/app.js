@@ -34,9 +34,9 @@ angular
         controller: 'RouteCtrl',
         controllerAs: 'route'
       })
-      .when('/welcome', {
-        templateUrl: 'views/welcome.html',
-        controllerAs: 'welcome'
+      .when('/index', {
+        templateUrl: 'views/index.html',
+        controllerAs: 'index'
       })
       .otherwise({
         redirectTo: '/'
