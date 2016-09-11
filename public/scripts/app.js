@@ -36,7 +36,6 @@ angular
       })
       .when('/welcome', {
         templateUrl: 'views/welcome.html',
-        controller: 'welcomeCtrl',
         controllerAs: 'welcome'
       })
       .otherwise({

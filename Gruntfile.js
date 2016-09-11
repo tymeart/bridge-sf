@@ -474,7 +474,7 @@ module.exports = function (grunt) {
       'watch'
     ]);
 
-    require('./app.js');
+    // require('./app.js');
   });
 
   grunt.registerTask('server', 'DEPRECATED TASK. Use the "serve" task instead', function (target) {
